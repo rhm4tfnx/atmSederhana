@@ -1,2 +1,2 @@
 # LearnBasicPython
-Latihan atm sederhana dengan fungsi
+Belajar python dasar 
