@@ -61,30 +61,6 @@ def informasi():
 
     laguu = f'''\n\n\n\n\n
    Kelak kau 'kan menjalani hidupmu sendiri
-Melukai kenangan yang telah kita lalui
-Yang tersisa hanya aku sendiri di sini
-Kau akan terbang jauh menembus awan
-Memulai kisah baru tanpa diriku
-Seandainya kau tau ku tak ingin kau pergi
-Meninggalkanku sendiri bersama bayanganku
-Seandainya kau tau aku 'kan selalu cinta
-Jangan kau lupakan kenangan kita selama ini
-Kelak kau 'kan menjalani hidupmu sendiri
-Melukai kenangan yang telah kita lalui
-Kau akan terbang jauh menembus awan
-Memulai kisah baru tanpa diriku
-Seandainya kau tau ku tak ingin kau pergi
-Meninggalkanku sendiri bersama bayanganku
-Seandainya kau tau aku 'kan selalu cinta
-Jangan kau lupakan kenangan kita selama ini
-Selama ini
-Seandainya kau tau ku tak ingin kau pergi
-Oh-oo
-Meninggalkanku sendiri bersama bayanganku
-Seandainya kau tau aku 'kan selalu cinta
-Jangan kau lupakan kenangan kita selama ini
-Ha-aa-oo
-Selama ini 
     '''
 
     print(Fore.LIGHTYELLOW_EX,'Sedikit lagu nih hehe \nMau ga? ')
